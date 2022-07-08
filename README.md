@@ -5,7 +5,7 @@ Experienced worker in the IT industry. Skilled in Data Warehouse (DW), Oracle Da
 
 Skills: SQL / ODI / APEX / POWER BI / SHAREPOINT / HTML / CSS
 
-- 🔭 I’m currently working on EURO project (emphasis on core DW adjustments)
+- 🔭 I’m currently working on EURO project -> core DW adjustments
 - 📫 How to reach me: hsusak@yahoo.com 
 - ⚡ Fun fact: Skully & friends founder 
 
