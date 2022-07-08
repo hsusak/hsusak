@@ -8,9 +8,8 @@ I enjoy design in general.
 ◻ ETL: Oracle Data Integrator (ODI11 & ODI12) / SAS Base
 ◻ Data Visualisation: Power BI
 ◻ Front End: APEX
-◻ Web Design: HTML / CSS / JS
+◻ Web Design: Sharepoint / HTML / CSS / JS
 ◻ Graphic Design: AI / PS
-◻ Sharepoint
 
 ## Experience:
 core DW team leader / DW consultant / BI Developer
