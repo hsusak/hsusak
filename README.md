@@ -1,4 +1,4 @@
-### Hi there 👋, Hrvoje Šušak
+### Hi there 👋, I'm Hrvoje
 #### Design & Development
 
 Experienced worker in the IT industry. Skilled in Data Warehouse (DW), Oracle Data Integrator (ODI), Web Design, Graphic Design
