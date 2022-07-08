@@ -1,13 +1,19 @@
 
 # Hrvoje Šušak
+I am Hrvoje from Croatia and I do content on Design and Development. core data warehouse team leader from Croatia. Experienced worker in the IT industry. 
+I enjoy design in general.
 
-I am core data warehouse team leader from Croatia. Experienced worker in the IT industry. 
+## Skills:
+- ◻ Programm Languages: SQL / Visual Basic
+- ◻ ETL: Oracle Data Integrator (ODI11 & ODI12) / SAS Base
+- ◻ Data Visualisation: Power BI
+- ◻ Front End: APEX
+- ◻ Web Design: HTML / CSS / JS
+- ◻ Graphic Design: AI / PS
+- ◻ Sharepoint
 
-## Skills & Experience:
-
-
-
-SQL / ODI / APEX / POWER BI / SHAREPOINT / HTML / CSS
+## Experience:
+core DW team leader / DW consultant / BI Developer
 
 - 🔭 I’m currently working on EURO project -> core DW adjustments
 - 📫 How to reach me: hsusak@yahoo.com 
