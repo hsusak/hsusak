@@ -4,12 +4,12 @@ I am Hrvoje from Croatia and I do content on Design and Development. core data w
 I enjoy design in general.
 
 ## Skills:
-◻ Programm Languages: SQL / Visual Basic
-◻ ETL: Oracle Data Integrator (ODI11 & ODI12) / SAS Base
-◻ Data Visualisation: Power BI
-◻ Front End: APEX
-◻ Web Design: Sharepoint / HTML / CSS / JS
-◻ Graphic Design: AI / PS
+- Programm Languages: SQL / Visual Basic
+- ETL: Oracle Data Integrator (ODI11 & ODI12) / SAS Base
+- Data Visualisation: Power BI
+- Front End: APEX
+- Web Design: Sharepoint / HTML / CSS / JS
+- Graphic Design: AI / PS
 
 ## Experience:
 core DW team leader / DW consultant / BI Developer
