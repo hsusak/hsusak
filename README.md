@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Hrvoje Šušak
+#### Design & Development
+![Design & Development](https://www.linkedin.com/in/hrvoje-susak/)
 
-<!--
-**hsusak/hsusak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced worker in the information technology and services industry. Skilled in Data Warehouse, Oracle Data Integrator (ODI), Web Design, Graphic Design
 
-Here are some ideas to get you started:
+Skills: SQL / ODI / APEX / POWER BI / SHAREPOINT / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: hsusak@yahoo.com 
+- ⚡ Fun fact: Skully & friends founder 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hsusak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hsusak/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsusak&show_icons=true)  
