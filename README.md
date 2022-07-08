@@ -1,9 +1,13 @@
-### Hi there 👋, I'm Hrvoje
-#### Design & Development
 
-Experienced worker in the IT industry. Skilled in Data Warehouse (DW), Oracle Data Integrator (ODI), Web Design, Graphic Design
+# Hrvoje Šušak
 
-Skills: SQL / ODI / APEX / POWER BI / SHAREPOINT / HTML / CSS
+I am core data warehouse team leader from Croatia. Experienced worker in the IT industry. 
+
+## Skills & Experience:
+
+
+
+SQL / ODI / APEX / POWER BI / SHAREPOINT / HTML / CSS
 
 - 🔭 I’m currently working on EURO project -> core DW adjustments
 - 📫 How to reach me: hsusak@yahoo.com 
