@@ -1,6 +1,6 @@
 ### Hi there 👋, Hrvoje Šušak
 #### Design & Development
-![Design & Development](https://www.linkedin.com/in/hrvoje-susak/)
+![Design & Development](https://www.linkedin.com/in/hrvoje-susak/overlay/background-image/)
 
 Experienced worker in the information technology and services industry. Skilled in Data Warehouse, Oracle Data Integrator (ODI), Web Design, Graphic Design
 
