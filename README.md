@@ -1,12 +1,11 @@
 ### Hi there 👋, Hrvoje Šušak
 #### Design & Development
-(https://www.linkedin.com/in/hrvoje-susak/overlay/background-image/)
 
-Experienced worker in the information technology and services industry. Skilled in Data Warehouse, Oracle Data Integrator (ODI), Web Design, Graphic Design
+Experienced worker in the IT industry. Skilled in Data Warehouse (DW), Oracle Data Integrator (ODI), Web Design, Graphic Design
 
 Skills: SQL / ODI / APEX / POWER BI / SHAREPOINT / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on EURO project (emphasis on core DW adjustments)
 - 📫 How to reach me: hsusak@yahoo.com 
 - ⚡ Fun fact: Skully & friends founder 
 
