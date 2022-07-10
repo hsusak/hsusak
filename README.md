@@ -1,6 +1,6 @@
 # Hrvoje Šušak
 I am Hrvoje from Croatia and I do content on Design and Development. My current primary role is core data warehouse (DW) team leader in finance sector (UniCredit Group), developing management skills as well. Stil, my real passion is design process in general: from development part (IT process improvements, automatizations) to various designs (front-end, data visualisations, websites).
-I enjoy creativity in any aspect. Want to ask, comment or just keep in touch? Don't be a stranger;) Reach me at hsusak@yahoo.com
+I enjoy creativity in any aspect. Want to ask, comment or just keep in touch? Don't be a stranger ;) Reach me at hsusak@yahoo.com
 
 ## Key Skills:
 - Programm Languages: SQL / SAS / VBA
