@@ -1,6 +1,6 @@
 # Hrvoje Šušak
-I am Hrvoje from Croatia and I do content on Design and Development. My current role is core data warehouse (DW) team leader in finance sector - Zagrebačka banka (UniCredit Group). I have lot of experience in the IT industry, enjoying design in general: from IT process improvements and automatizations to various graphic designs (frontend apps, data visualisation, websites).
-Feel free to contact me at hsusak@yahoo.com Cheers! 😉
+I am Hrvoje from Croatia and I do content on Design and Development. Beside that, have also experience as an IT manager. My current primary role is core data warehouse (DW) team leader in finance sector (UniCredit Group). However, my real passion is design process in general: from development part (IT process improvements, automatizations) to various graphic designs (frontend, data visualisation, websites).
+Enjoy creativity in any aspect. Feel free to contact me at hsusak@yahoo.com Cheers! 😉
 
 ## Key Skills:
 - Programm Languages: SQL / SAS / VBA
@@ -13,7 +13,7 @@ Feel free to contact me at hsusak@yahoo.com Cheers! 😉
 ## Experience:
 - ⚙️ Core DW team leader / DW consultant / BI Developer
 - 🕓 Timeline: >15yrs
-- 👉 Currently working on verly large and complex project in Croatia - EURO Conversion
+- 👉 Currently working on large and complex project in Croatia - EURO Conversion
 
 ##
 - ⚡ Fun fact: Skully & friends founder
