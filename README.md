@@ -14,7 +14,7 @@ Feel free to contact me at hsusak@yahoo.com Cheers! 😉
 ## Experience:
 - ⚙️ Core DW team leader / DW consultant / BI Developer
 - 🕓 Timeline: >15yrs
-I’m currently working on verly large and complex project - EURO Conversion
+- 👉 Currently working on verly large and complex project in Croatia - EURO Conversion
 
 ##
 - ⚡ Fun fact: Skully & friends founder
