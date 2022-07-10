@@ -1,4 +1,3 @@
-
 # Hrvoje Šušak
 I am Hrvoje from Croatia and I do content on Design and Development. My current role is core data warehouse (DW) team leader in finance sector - Zagrebačka banka (UniCredit Group). I have lot of experience in the IT industry, enjoying design in general: from IT process improvements and automatizations to various graphic designs (frontend apps, data visualisation, websites).
 Feel free to contact me at hsusak@yahoo.com Cheers! 😉
@@ -8,7 +7,7 @@ Feel free to contact me at hsusak@yahoo.com Cheers! 😉
 - ETL: Oracle Data Integrator (ODI11 & ODI12) / SAS Base
 - Data Visualisation: Power BI
 - Front End: APEX
-- Web Design: Sharepoint / HTML / CSS / JS
+- Web Design: Sharepoint / HTML / CSS
 - Graphic Design: AI / PS
 
 ## Experience:
